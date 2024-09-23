@@ -831,7 +831,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <item>
 <title>[COLOR gold]* [COLOR aqua]Repeticiones [COLOR white]Motor[/COLOR]</title>
 <link>$doregex[c]</link>
-<externallink>https://raw.githubusercontent.com/addoncristal2024jun/recuperamos-/main/REPETICIONES/MOTOR</externallink>
+<externallink>https://raw.githubusercontent.com/Cristalrecuperado/codigo/refs/heads/main/REPETICIONES/MOTOR</externallink>
 <thumbnail>https://imgur.com/WXQX59s.jpg</thumbnail>
 <fanart>https://i.imgur.com/Byq4oSp.jpg</fanart>
 </item>
